@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full restaurant census covering Deltona, Florida. This city-level export includes every active restaurant listing filtered by the Restaurants category group, with review analytics and sentiment data. Refreshed weekly.",
   "config_name": "All Restaurants in Deltona, Florida, US",
-  "export_job_id": "4e311155-bc61-4e2b-9eda-8c0c043273ef",
+  "export_job_id": "547ba57b-9649-4722-8c1f-8918c7917f89",
   "github_org": "Beamstation-Datasets",
   "id_short": 420765,
   "location_name": "Deltona",
   "location_type": "city",
   "repo_name": "all-restaurants-in-deltona-florida-us-sample-420765",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/420765/beamstation_420765_restaurants-us-fl_SAMPLE_DIST.csv",
-  "sample_pct": 18.42,
+  "sample_pct": 9.09,
   "sample_records": 7,
   "sample_sha256": "4e54a4892ed7bf90ad196557f1849db65f44ad50722c5bbf33521604c8262d7b",
   "sample_size_bytes": 27556,
-  "total_records": 38,
-  "updated_at": "2026-03-31T17:20:32.148482+00:00"
+  "total_records": 77,
+  "updated_at": "2026-04-14T18:16:40.132915+00:00"
 }
