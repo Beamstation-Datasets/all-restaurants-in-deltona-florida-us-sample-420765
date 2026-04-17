@@ -1,0 +1,12 @@
+{
+  "export_job_id": "4e311155-bc61-4e2b-9eda-8c0c043273ef",
+  "id_short": 420765,
+  "published_at": "2026-04-17T07:19:38Z",
+  "repo_name": "all-restaurants-in-deltona-florida-us-sample-420765",
+  "sample_asset_name": "beamstation_420765_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/420765/beamstation_420765_restaurants-us-fl_SAMPLE_DIST.csv",
+  "sample_records": 7,
+  "sample_sha256": "4e54a4892ed7bf90ad196557f1849db65f44ad50722c5bbf33521604c8262d7b",
+  "sample_size_bytes": 27556,
+  "total_records": 38
+}
