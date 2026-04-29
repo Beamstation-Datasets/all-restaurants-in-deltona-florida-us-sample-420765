@@ -1,6 +1,6 @@
 # All Restaurants in Deltona, Florida, US
 
-> Free BeamStation sample export with 7 rows and masked direct-contact fields.
+> Free BeamStation sample export with 9 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `420765` |
 | Location | Deltona |
 | Category | Restaurants |
-| Full dataset size | 74 records |
-| Free sample size | 7 records (9.46%) |
-| Last export | 2026-04-21T20:06:11.899349+00:00 |
+| Full dataset size | 96 records |
+| Free sample size | 9 records (9.38%) |
+| Last export | 2026-04-28T21:47:47.939029+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-deltona-florida-us-sample-420765/releases/download/sample-latest/beamstation_420765_restaurants-us-fl_SAMPLE_DIST.csv) |
 
 ## What is in this sample
